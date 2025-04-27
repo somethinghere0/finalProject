@@ -1,0 +1,32 @@
+type,all stages,localized,regional,distant
+thyroid,98,99,98,52
+prostate,97,99,99,37
+testis,95,99,96,72
+melanoma (skin),94,99,75,35
+breast,91,99,87,32
+hodgkin lymphoma,89,92,94,84
+uterine corpus,81,95,70,19
+kidney & renal pelvis,78,93,75,18
+Non-hodgkin lymphoma,74,86,78,67
+All cancers,69,91,68,34
+Oral cavity & pharynx,69,87,69,38
+cervix,67,91,61,19
+leukemia,67,74,No Data,67
+colorectum ,64,91,73,15
+larynx,62,79,48,34
+myeloma,61,80,No Data,60
+ovary,51,92,72,31
+stomach,36,75,36,7
+Brain & nervous system,33,35,21,31
+lung and bronchus,27,64,36,9
+esophagus,22,48,28,5
+liver & bile duct,22,37,13,3
+pancreas,13,44,16,3
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+source: https://cancerstatisticscenter.cancer.org/#/,,,,
