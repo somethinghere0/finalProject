@@ -4,17 +4,6 @@ import pandas as pd
 import json
 import requests
 
-'''
-with open('clinical.project-fm-ad.2025-04-27.json', 'r') as file:
- data = json.load(file)
-
-print(data[0]['primary_site'])
-
-x = []
-for i in range(len(data)):
- x.append(data[i][])
-'''
-
 csv_file_path = 'ES2 Project data - Sheet1.csv'
 
 data = pd.read_csv(csv_file_path)
